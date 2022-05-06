@@ -19,6 +19,7 @@ enjoy
 cd /d DOWNLOADED_FOLDER
 aha --help
 ```
+with no other DLL required.
 
 How to compile
 ==============
@@ -28,4 +29,7 @@ How to compile
 ```bat
 make
 ```
-4. See the executable file aha.exe
+4. See the result file aha.exe
+
+In fact, the executable depends on KERNEL32.dll and msvcrt.dll,
+which are alreadey shipped with Windows.

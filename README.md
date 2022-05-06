@@ -27,6 +27,7 @@ How to compile
 2. Download source code from https://github.com/theZiz/aha
 3. Start -> MSYS2 MinGW x64
 ```bat
+cd SOURCE_CODE_FOLDER
 make
 ```
 4. See the result file aha.exe

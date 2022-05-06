@@ -11,7 +11,7 @@ https://github.com/theZiz/aha
 How to use
 ==========
 Go to Releases page,
-click aha.exe download link,
+click ```aha-*-windows-*.zip``` download link,
 unzip,
 open a command prompt,
 enjoy

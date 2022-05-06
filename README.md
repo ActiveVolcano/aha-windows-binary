@@ -10,9 +10,9 @@ https://github.com/theZiz/aha
 
 How to use
 ==========
-Go to Packages page,
-click download link,
-unzip,
+Go to Releases page,
+click aha.exe download link,
+save,
 open a command prompt,
 enjoy
 ```bat

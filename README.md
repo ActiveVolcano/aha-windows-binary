@@ -12,7 +12,7 @@ How to use
 ==========
 Go to Releases page,
 click aha.exe download link,
-save,
+unzip,
 open a command prompt,
 enjoy
 ```bat
@@ -31,5 +31,5 @@ make
 ```
 4. See the result file aha.exe
 
-In fact, the executable depends on KERNEL32.dll and msvcrt.dll,
+In fact, the executable only depends on KERNEL32.dll and msvcrt.dll,
 which are alreadey shipped with Windows.
